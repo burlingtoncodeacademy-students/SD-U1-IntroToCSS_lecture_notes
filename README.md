@@ -14,7 +14,8 @@ There are two different branches associated with this lesson.
 ### What Should Already Be Understood
 - Basic OS navigation
 - Terminal Commands
-  - How to create directories & files.
+- Basic structure of HTML
+  - elements and properties of elements
 
 ## Files / Folders Provided in this Lesson
 - `index.html`
