@@ -1,0 +1,17 @@
+/*
+    Building Blocks
+        
+        selector {
+            [Declaration Block]
+            property: value;
+        }
+
+    colors: 
+        - preset colors: red, blue, yellow, etc.
+        - rgb & rgba (red, gree, blue, alpha)
+            - alpha determines transparency
+            - ex: rgba(200, 15, 100, .5)
+        - Hexidecimal
+            - 16 digits: 0-9 A-F
+            - ex: #d2d2d2
+*/
